@@ -1,0 +1,37 @@
+// Variables
+
+$font-stack: Open Sans, sans-serif;
+
+body{
+	font: 100% $font-stack;
+}
+
+//Nested
+
+#page-content1 .container .row
+
+{
+	.btn{
+	background-color: #FFB400;
+	border:none;
+	}
+}
+
+//Inheritance
+
+%message-shared{
+	box-shadow: 2.5px 5px gray;
+}
+
+#about .container .row a{
+@extend %message-shared;
+}
+
+#bucketlist .container .row .card{
+@extend %message-shared;
+}
+
+#bucketlist .container .more{
+@extend %message-shared;
+}
+

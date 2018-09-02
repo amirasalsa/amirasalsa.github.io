@@ -1,0 +1,11 @@
+body {
+  font: 100% Open Sans, sans-serif; }
+
+#page-content1 .container .row .btn {
+  background-color: #FFB400;
+  border: none; }
+
+#about .container .row a, #bucketlist .container .row .card, #bucketlist .container .more {
+  box-shadow: 2.5px 5px gray; }
+
+/*# sourceMappingURL=styles.css.map */
