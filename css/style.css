@@ -63,7 +63,7 @@ header .jumbotron{
 	padding-bottom:15px;
 	padding-left:40px;
 	padding-right:40px;
-	box-shadow: 2.5px 5px gray;
+	/*Box shadow in scss*/
 }
 
 #footer {
@@ -75,7 +75,6 @@ header .jumbotron{
 
 #footer .container h2{
 	padding-top:30px;
-	text-align:center;
 	font-size: 30px;
 	color:white;
 }
@@ -110,7 +109,7 @@ header .jumbotron{
 
 #bucketlist .container .row .card{
 	border-radius:50px;
-	box-shadow: 2.5px 5px gray;
+	/*box shadow in scss*/
 }
 
 
@@ -142,6 +141,7 @@ header .jumbotron{
 	color: #77a3ea;
 }
 
+
 #bucketlist .container .more{
 	background-color:#FFB400;
 	border-radius:45px;
@@ -151,18 +151,15 @@ header .jumbotron{
 	padding-bottom:15px;
 	padding-left:40px;
 	padding-right:40px;
-	box-shadow: 2.5px 5px gray;
 	margin:auto;
 	margin-bottom: 30px;
+	/*box shdow in scss */
 }
 
 #bucketlist .container .more a{
 	color: white;
 }
-<<<<<<< HEAD
 
-=======
->>>>>>> 8a51c22ae6bf4df123ca87b957ee61fd0bfc81c3
 /* Contact Page */
 
 #page-content .container .row .col-md-12 {
