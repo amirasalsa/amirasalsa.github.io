@@ -1,0 +1,151 @@
+/* All Page */
+
+.container .breadcrumb{
+	background-color: #FFB400;
+	font-weight: bold;
+}
+
+ .container .breadcrumb li{
+	color: white;
+	font-weight: bold;
+}
+
+.container .breadcrumb li a{
+	color: gray;
+	font-weight: bold;
+}
+
+footer{
+	background-color:#FFB400;
+}
+
+/* Home Page */
+header{
+	background-color: #FFB400;
+}
+header .jumbotron{
+	width:100%;
+	height: 850px;
+	color:white;
+	background-image:url("../img/1.png");
+	background-color: #FFB400;
+}
+
+#about{
+	background-color: #FFB400;
+	padding-top:30px;
+	padding-bottom:30px;
+	text-align:center;
+	
+}
+
+#about .container .row h2{
+	color:white;
+	font-weight: bold;
+	font-size:60px;
+	padding-top: 70px;
+}
+
+#about .container .row p{
+	color:white;
+	font-weight: bold;
+	font-size:30px;
+	padding-bottom:20px;
+}
+
+#about .container .row a{
+	background-color: white;
+	border-radius:45px;
+	color: gray;
+	font-weight:bold;
+	font-size:20px;
+	padding-top:15px;
+	padding-bottom:15px;
+	padding-left:40px;
+	padding-right:40px;
+}
+
+#bucketlist .container h2{
+	text-align:center;
+	color:#FFB400;
+	font-weight: bold;
+	font-size:60px;
+	padding-top: 30px;
+	padding-bottom:20px;
+}
+
+
+#footer{
+	width:100%;
+	height:500px;
+	background-image:url("../img/3.png");
+}
+
+/* End Home Page */
+
+/* Contact Page */
+
+#page-content .container .row .col-md-12 {
+	text-align:center;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+#page-content .container .row .col-md-12 h3{
+	color: #FFB400;
+	font-weight: bold;
+	font-size: 60px;
+	padding-bottom: 15px;
+}
+
+#page-content .container .row .col-md-12 .btn{
+	background-color: gray;
+	border: none;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+#page-content .container .row .col-lg-4 {
+	font-weight:bold;
+}
+
+/* About Page */
+
+#page-content1 .container .row{
+	text-align:center;
+}
+
+#page-content1 .container .row .col-lg-6 p{
+	color: #FFB400;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#page-content1 .container .row .col-lg-6 table{
+	margin-left:20%;
+	margin-right:10%;
+	text-align:center;
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#page-content1 .container .row .col-lg-6 table th{
+	background-color: #FFB400;
+	border: white;
+	border-radius:35px;
+	padding: 10px;
+}
+
+#page-content1 .container .row .col-lg-6 table td{
+	background-color: #FFB400;
+	border-radius:30px;
+	padding: 10px;
+}
+
+/* Donate Page */
+
+
+
+
+
