@@ -93,11 +93,15 @@ header .jumbotron{
 	text-align: center;
 }
 
+#footer .container .social-media{
+	list-style: none;
+}
+
 #footer .container .social-media ul li{
 	padding-left:15px;
 	text-align: center;
 	list-style: none;
-	display: inline;
+	display: inline-block;
 }
 
 /* End Home Page */
