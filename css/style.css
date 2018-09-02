@@ -222,7 +222,7 @@ header .jumbotron{
 
 /* Donate Page */
 
-.page-content1{
+.page-content1 .container .row{
 	height="800px";
 }
 
