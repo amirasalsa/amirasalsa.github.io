@@ -103,22 +103,22 @@ header .jumbotron{
 	padding-bottom:20px;
 }
 
-#bucketlist .container .row .col-lg-4{
+#bucketlist  .row .col-lg-4{
 	padding-bottom:15px;
 }
 
-#bucketlist .container .row .card{
+#bucketlist  .row .card{
 	border-radius:50px;
 	/*box shadow in scss*/
 }
 
 
-#bucketlist .container .row .card-title{
+#bucketlist  .row .card-title{
 	color: #FFB400;
 	font-weight:bold;
 }
 
-#bucketlist .container .row .card-subtitle{
+#bucketlist  .row .card-subtitle{
 	margin:5px;
 	padding-top:10px;
 	padding-bottom:10px;
@@ -128,21 +128,21 @@ header .jumbotron{
 	color: white;
 }
 
-#bucketlist .container .row .card-subtitle h6{
+#bucketlist  .row .card-subtitle h6{
 	color: white;
 }
 
-#bucketlist .container .row .card-footer {
+#bucketlist  .row .card-footer {
 	font-weight:bold;
 	font-size:25px;
 }
 
-#bucketlist .container .row .card-footer a{
+#bucketlist  .row .card-footer a{
 	color: #77a3ea;
 }
 
 
-#bucketlist .container .more{
+#bucketlist .more{
 	background-color:#FFB400;
 	border-radius:45px;
 	font-weight:bold;
@@ -156,7 +156,7 @@ header .jumbotron{
 	/*box shdow in scss */
 }
 
-#bucketlist .container .more a{
+#bucketlist  .more a{
 	color: white;
 }
 
